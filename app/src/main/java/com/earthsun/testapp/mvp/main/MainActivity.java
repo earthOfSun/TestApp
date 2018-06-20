@@ -1,4 +1,4 @@
-package com.earthsun.testapp.View;
+package com.earthsun.testapp.mvp.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

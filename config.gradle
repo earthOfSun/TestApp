@@ -19,7 +19,7 @@ ext {
             "com.squareup.retrofit2:retrofit"      : 'com.squareup.retrofit2:retrofit:2.1.0',
             "com.squareup.retrofit2:adapter-rxjava": 'com.squareup.retrofit2:adapter-rxjava:2.1.0',
             "com.squareup.retrofit2:converter-gson": 'com.squareup.retrofit2:converter-gson:2.1.0',
-
+            "com.jakewharton:butterknife"          : 'com.jakewharton:butterknife:8.2.1',
 
     ]
 
